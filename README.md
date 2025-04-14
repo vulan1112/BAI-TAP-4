@@ -81,7 +81,22 @@ deadline: 15/4/2025
 ### Tạo được query truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra.
 
  **trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy**
+ 
  **KIỂM TRA TẤT CẢ: GV,TÊN MÔN VÀ GIỜ VÀO RA**
 ![image](https://github.com/user-attachments/assets/7062d5f3-701f-403c-b718-1cd8338b0cd9)
 
- 
+**kIỂM TRA MỘT KHOẢNG THỜI GIAN NHẤT ĐỊNH CÓ GIÁO VIÊN NÀO ĐANG BẬN**
+
+ ![image](https://github.com/user-attachments/assets/ab685676-ab36-4670-90e6-6b8df923a850)
+
+**TRÁNH LẶP LẠI KẾT QUẢ ĐÃ CÓ**
+
+![image](https://github.com/user-attachments/assets/7beb85d8-eb0f-4e74-86a9-277266a02b24)
+
+**SỬ DỤNG CÁC BẢNG LIÊN QUAN**
+
+![image](https://github.com/user-attachments/assets/0c8ec27c-87e8-48f4-9796-b5756cb4193c)
+
+**ĐIỀU KIỆN TÌM GIÁO VIÊN ĐANG CÓ GIỜ GIẢNG DẠY**
+
+![image](https://github.com/user-attachments/assets/a61ae007-5fcd-44b7-a719-f59ed3500b0d)
